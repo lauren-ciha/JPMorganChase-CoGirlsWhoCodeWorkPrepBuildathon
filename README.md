@@ -8,4 +8,4 @@ To view, drag and drop the HTML file into your browser or follow the link [here]
 
 This was our first time designing a web UI and wireframe in Figma. I'm grateful for the opportunity to learn with these ladies!
 
-Shout out to all the UI/UX designers out there---easy to use interfaces are not easy to make!
+Shout out to all the UI/UX designers out there --- easy-to-use interfaces are not easy to make!
